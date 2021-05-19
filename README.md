@@ -6,6 +6,7 @@
 <img src="public/challenge.png" alt="challenge" />
 <img src="public/challenge1.png" alt="challenge1" />
 
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio, você deverá criar testes unitários e testes de integração para a aplicação FinAPI, já utilizada em outros módulos da trilha Node.js
