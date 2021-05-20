@@ -77,13 +77,13 @@ clique Desafio 02 **[aqui](https://www.notion.so/Desafio-02-Testes-de-integra-o-
 
 ## Testes de Integração
 
-- [] should be able to create a new user
+- [X] should be able to create a new user
 
-- [] should not be able to create a new user when email has already been registered
+- [x] should not be able to create a new user when email has already been registered
 
-- [] should be able to authenticate user
+- [x] should be able to authenticate user
 
-- [] should be able to show user profile
+- [x] should be able to show user profile
 
 
 
